@@ -1,4 +1,4 @@
-# Trojan detected in rollup by Windows Security
+# Trojan detected in @rollup\rollup-win32-x64-msvc\rollup.win32-x64-msvc.node by Windows Security
 
 ## Metadata
 OS: Windows 11
