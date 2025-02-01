@@ -60,6 +60,14 @@ Windows Security logs:
 
 
 
+# Workaround
+Downgrading to rollup@4.32.1 gets everything working. Windows Security does not remove the file anymore.
+Add the following override in `package.json`:
+```
+  "overrides": {
+    "rollup": "4.32.1"
+  }
+```
 
 
 
